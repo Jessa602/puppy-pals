@@ -3,6 +3,14 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  border-style: dashed;
+  border-color: #a4a3a0;
+  background-color: #856657;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
 .logo {
